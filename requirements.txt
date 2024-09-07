@@ -1,10 +1,8 @@
 streamlit
 PyPDF2
-openai
+openai==0.28
 python-dotenv
 tiktoken
-#transformers>=4.19.0
-#lxml>=4.0
 langchain
 pypdf
 langchain-community

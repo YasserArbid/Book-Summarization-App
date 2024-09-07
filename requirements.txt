@@ -7,3 +7,4 @@ tiktoken
 #lxml>=4.0
 langchain
 pypdf
+langchain-community

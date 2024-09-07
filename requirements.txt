@@ -1,0 +1,9 @@
+streamlit
+PyPDF2
+openai
+python-dotenv
+tiktoken
+#transformers>=4.19.0
+#lxml>=4.0
+langchain
+pypdf

@@ -140,3 +140,12 @@ def main():
 
 if __name__ == "__main__":
     main()
+    
+footer = """
+---
+#### Made By [Yasser Arbid](https://www.linkedin.com/in/yasser-arbid/)    *AI Expert* 
+For Queries, Reach out on [LinkedIn](https://www.linkedin.com/in/yasser-arbid/)   
+*Making books summarization easier*
+"""
+
+st.markdown(footer, unsafe_allow_html=True)
